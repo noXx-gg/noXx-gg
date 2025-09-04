@@ -1,2 +1,2 @@
-- tg: @EL_BXTRO
+- tg: [@EL_BXTRO](https://web.telegram.org/k/#@EL_BXTRO)
 - mail: teemyr@ya.ru
