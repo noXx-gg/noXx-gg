@@ -1,2 +1,2 @@
-- tg: EL_BXTRO
+- tg: @EL_BXTRO
 - mail: teemyr@ya.ru
